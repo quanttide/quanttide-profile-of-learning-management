@@ -12,6 +12,8 @@
 
 ## 第二步：通过 Issue 和 PR 提出改进建议
 
+讨论与产出提交到量潮数据工程主仓库：https://github.com/quanttide/quanttide-data
+
 社区协作流程如下：
 
 1. 在 Issue 中提出你的想法，与团队讨论达成共识

@@ -18,7 +18,10 @@
 
 ## 提交方式
 
-社区协作流程：先在 Issue 中提出你的想法并讨论达成共识，再提交 PR 并在 PR 中引用该 Issue，PR 通过后关闭 Issue。
+讨论与产出提交到数据工程洞察仓库：https://github.com/quanttide/quanttide-insight-of-data-engineering
 
-- 如果你熟悉 Git 和 GitHub 操作，可以直接修改洞察仓库的文件，然后创建 PR
-- 如果你对 PR 操作还不熟悉，不用紧张——你可以在 Issue 中说明自己不会操作，我们会安排人或陪你一起完成这一步
+1. 先在 Issue 中提出你的想法，与团队讨论达成共识
+2. 共识后提交 PR，并在 PR 中引用该 Issue
+3. PR 通过后关闭 Issue
+
+如果你对 Issue 和 PR 操作不熟悉，不用紧张——在 Issue 中说明自己不会操作即可，我们会安排人或陪你一起完成这一步。
