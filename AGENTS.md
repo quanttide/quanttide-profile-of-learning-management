@@ -98,7 +98,7 @@ Member (成员)
 
 ```
 data/profile/
-└── {org}/
+└── learners/            # 学习者档案，按昵称命名，不再按组织分组
     ├── README.md
     ├── {nickname}.md
     └── ...
