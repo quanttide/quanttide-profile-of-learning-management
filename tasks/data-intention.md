@@ -11,7 +11,14 @@
 1. 阅读现有意图文档，熟悉格式与内容：https://github.com/quanttide/quanttide-intention-of-data-engineering
 2. 通读数据工程日志：https://github.com/quanttide/quanttide-journal-of-data-engineering
 3. 参考现有意图文档的格式和内容，增加 qtcloud-data 和 qtdata 的最新想法
-4. 通过 Issue 和 PR 与团队沟通你的整理结果
+4. 整理完成后，按下方提交方式与团队沟通你的结果
+
+## 提交方式
+
+社区协作流程：先在 Issue 中提出你的想法并讨论达成共识，再提交 PR 并在 PR 中引用该 Issue，PR 通过后关闭 Issue。
+
+- 如果你熟悉 Git 和 GitHub 操作，可以直接修改意图仓库的文件，然后创建 PR
+- 如果你对 PR 操作还不熟悉，不用紧张——你可以在 Issue 中说明自己不会操作，我们会安排人或陪你一起完成这一步
 
 ## 重要提醒
 
